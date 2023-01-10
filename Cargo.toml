@@ -3,7 +3,9 @@ name = "yew-linkify"
 version = "0.0.1"
 edition = "2021"
 description = "A yew component for automatically linkifying your text"
-
+license = "MIT"
+documentation = "https://github.com/himanshurajora/yew-linkify"
+homepage = "https://github.com/himanshurajora/yew-linkify"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
