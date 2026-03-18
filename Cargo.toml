@@ -1,6 +1,6 @@
 [package]
 name = "yew-linkify"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2021"
 description = "A yew component for automatically linkifying your text"
 license = "MIT"
