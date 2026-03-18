@@ -1,6 +1,6 @@
 [package]
 name = "yew-linkify"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "A yew component for automatically linkifying your text"
 license = "MIT"
@@ -10,5 +10,5 @@ homepage = "https://github.com/himanshurajora/yew-linkify"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-yew = { version = "0.20.0", features = ["csr"] }
-linkify = "0.9.0"
+yew = { version = "0.23.0", features = ["csr"] }
+linkify = "0.10.0"
